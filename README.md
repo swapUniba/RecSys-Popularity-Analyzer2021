@@ -10,7 +10,7 @@ Analisi della fairness e popularity bias nei RecSys in GoodBooks-10k, realizzato
   - **Content-based Word Embedding**: per l'esecuzione dei diversi algoritmi Content-based con tecniche di Word-embedding offerte dalla libreria Gensim;
   - **Pagerank e Personalized Pagerank**:  per l'esecuzione di algoritmi graph-based, ovvero Pagerank e Pagerank personalizzato (creazione del grafo e calcolo del pagerank,         grazie alla libreria NetworkX);
   - **Analysis**: calcolo di metriche, generazione di grafici e suddivisione degli utenti nelle tre sottocategorie: Cold-Start, Hot-Start e Regular;
-  - **utils**: per il mapping dei contenuti testuali, splitting degli utenti e altre operazioni di supporto;
+  - **Utils**: per il mapping dei contenuti testuali, splitting degli utenti e altre operazioni di supporto;
   - **Convertion**: utile alla conversione di file parquet in file CSV.
   
   Per l'esecuzione, ci si è serviti del seguente dataset:
