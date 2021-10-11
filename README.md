@@ -1,5 +1,5 @@
 # RecSys-Popularity-Analyzer2021
-Analisi della fairness e popularity bias nei RecSys in GoodBooks-10k, realizzato nel lavoro di tesi di Valletta
+Analisi della fairness e popularity bias nei RecSys in GoodBooks-10k, realizzato nel lavoro di tesi di Valletta Antonio.
 
 ## Framework per l'analisi della fairness e popularity bias in GoodBooks-10k
 <p> Il seguente framework, permette l'esecuzione di diversi algoritmi di tipo: Collaborative Filtering, Content-based Word Embedding e Graph-based.
